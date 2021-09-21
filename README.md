@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ Fun fact **Pork and beef make my stomach go roar!!**
   
-- 🖥 Here is the link to my website **[celinejoie.me](https://celine-buenaventura.web.app/)**
+- 🖥 Here is the link to my website **[celinejoie.me](https://www.celinejoie.me/)**
 
 - 📫 Get in touch with me at **cjvbuenaventura@gmail.com**
 
