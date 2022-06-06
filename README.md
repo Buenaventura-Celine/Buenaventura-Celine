@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="icon.svg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Celine</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">I'm Celine</h1>
 <h3 align="center">Future Software Engineer</h3>
 
 ## 🙆‍♀️ About Me
